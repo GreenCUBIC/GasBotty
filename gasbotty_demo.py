@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 GasBotty: Multi-Metric Extraction in the Wild
-Authors: Anonymous 
+Authors: Kevin Dick, Joshua B. Tanner, François Charih, James R. Green
 ---
 End-to-end demonstration of the GasBotty pipeline on 1 of 5 sample images. 
 """
