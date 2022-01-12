@@ -1,6 +1,6 @@
-# GasBotty
+# GasBotty: Multi-Metric Extraction in the Wild
 
-Anonymous repository to host the GasBotty demonstration notebook.
+The official GasBotty repository to host the GasBotty source code and demonstration notebook.
 
 To run the demonstration, clone this repository, launch the `gasbotty_demo.ipynb` using either `Jupyter Notebook` or `JupyterLab`, and execute each cell in turn.
 
